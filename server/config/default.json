@@ -1,0 +1,8 @@
+{
+  "port": 5000,
+  "jwtSecret": "ver0nika_test",
+  "mongoUri": "mongodb+srv://dmytro:ver0nika@cluster0.gg42h.mongodb.net/test_task_AB?retryWrites=true&w=majority\n",
+  "baseUrl":"http://localhost:2000"
+}
+
+
